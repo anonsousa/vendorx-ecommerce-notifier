@@ -24,14 +24,3 @@ public class VerificationToken {
     private LocalDateTime expiryDate;
     private boolean consumed;
 }
-
-/*
-{
-"id":1,
-"token":"",
-"name":"",
-"email":"",
-"expiryDate":[2024,9,26,8,13,31,421119732],
-"consumed":false
-}
- */
